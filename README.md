@@ -1,6 +1,6 @@
 # web-dev-starter
 
-This is a webpage that is a mark up of a letter that will be hosted on a university intranet. 
+This is a webpage that is a mark up of a letter that will be hosted on a university intranet.
 
 ## Getting Started
 
