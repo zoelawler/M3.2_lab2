@@ -1,8 +1,6 @@
 # web-dev-starter
 
-This is a starter project for web development with no frameworks and minimal
-dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
+This is a webpage that is a mark up of a letter that will be hosted on a university intranet. 
 
 ## Getting Started
 
@@ -12,6 +10,8 @@ To get started, clone this repository and run the following commands:
 npm install
 ```
 This will install the necessary dependencies for the project.
+
+Then start the live server to view the webpage.
 
 ## Development
 
